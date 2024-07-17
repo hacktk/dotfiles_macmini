@@ -1,0 +1,10 @@
+[user]
+    email = hacktk3@gmail.com
+    name = hacktk
+[color]
+    ui = auto
+[core]
+    ignorecase = false
+    quotepath = false
+[diff]
+    compactionHeuristic = true

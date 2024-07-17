@@ -1,0 +1,46 @@
+{
+    "breadcrumbs.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.cursorBlinking": "blink",
+    "editor.cursorStyle": "line-thin",
+    "editor.folding": false,
+    "editor.fontFamily": "Ricty",
+    "editor.fontSize": 16,
+    "editor.guides.bracketPairs": true,
+    "editor.links": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "always",
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        120
+    ],
+    "editor.stickyScroll.enabled": false,
+    "editor.suggestSelection": "first",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "explorer.compactFolders": false,
+    "extensions.ignoreRecommendations": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "[markdown]": {
+        "editor.wordWrap": "off",
+        "files.trimTrailingWhitespace": false
+    },
+    "redhat.telemetry.enabled": false,
+    "search.useIgnoreFiles": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontFamily": "Ricty",
+    "terminal.integrated.fontSize": 16,
+    "workbench.colorCustomizations": {
+        "editor.findMatchBorder": "#FFF"
+    },
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.startupEditor": "newUntitledFile"
+}
