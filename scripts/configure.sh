@@ -75,6 +75,8 @@ echo "Configuring Trackpad..."
 defaults write -g com.apple.trackpad.forceClick -bool false
 # 軌跡の速さ
 defaults write -g com.apple.trackpad.scaling -int 2
+# Quiet Clickを有効
+defaults write com.apple.AppleMultitouchTrackpad ActuationStrength -bool false
 # スマートズームを無効
 defaults write com.apple.AppleMultitouchTrackpad TrackpadTwoFingerDoubleTapGesture -bool false
 # 回転を無効
